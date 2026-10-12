@@ -1,0 +1,7 @@
+{
+  "name": "حاسبة تسعير وأرباح التجارة الإلكترونية في مصر",
+  "description": "أداة مالية متخصصة لحساب تسعير المنتجات، هوامش الربح الحقيقية بعد المرتجعات، وتكلفة الإعلانات والشحن لسوق التجارة الإلكترونية المصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
